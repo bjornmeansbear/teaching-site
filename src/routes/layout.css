@@ -1,0 +1,50 @@
+@import 'tailwindcss';
+
+/* kit.css is copied verbatim from ~/Code/color-system-and-guidelines.
+   Layered as base so Tailwind utilities still win over its element rules.
+   Dark mode comes from the kit itself (follows the system setting). */
+@import '../lib/kit.css' layer(base);
+
+/* Tailwind reads the kit's tokens instead of its own palette. Defaults are
+   cleared so only kit colors, type steps and breakpoints exist as utilities. */
+@theme {
+	--color-*: initial;
+	--font-*: initial;
+	--text-*: initial;
+	--breakpoint-*: initial;
+
+	--breakpoint-tablet: 40rem;
+	--breakpoint-desktop: 55rem;
+	--container-tablet: 40rem;
+	--container-desktop: 55rem;
+
+	/* p-1 = 6px, p-4 = 24px: spacing rides the same rhythm as the type. */
+	--spacing: 0.375rem;
+}
+
+@theme inline reference {
+	--color-bg: var(--color-bg);
+	--color-text: var(--color-text);
+	--color-text-muted: var(--color-text-muted);
+	--color-text-subtle: var(--color-text-subtle);
+	--color-border: var(--color-border);
+	--color-accent: var(--color-accent);
+	--color-accent-hover: var(--color-accent-hover);
+
+	--font-sans: var(--font-sans);
+
+	--text-xs: var(--text-xs);
+	--text-xs--line-height: var(--leading-xs);
+	--text-sm: var(--text-sm);
+	--text-sm--line-height: var(--leading-sm);
+	--text-base: var(--text-base);
+	--text-base--line-height: var(--leading-base);
+	--text-md: var(--text-md);
+	--text-md--line-height: var(--leading-md);
+	--text-lg: var(--text-lg);
+	--text-lg--line-height: var(--leading-lg);
+	--text-xl: var(--text-xl);
+	--text-xl--line-height: var(--leading-xl);
+	--text-2xl: var(--text-2xl);
+	--text-2xl--line-height: var(--leading-2xl);
+}

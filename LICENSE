@@ -1,0 +1,38 @@
+Copyright (c) 2026 Kristian Bjørnard
+
+This repository is under two licenses: one for the writing and data, one for
+the code.
+
+Writing and data — CC BY-SA 4.0
+
+  Course descriptions, one-liners, project briefs, the synced data in
+  src/lib/data/, and every other non-code file are licensed under the
+  Creative Commons Attribution-ShareAlike 4.0 International License.
+
+  You may share and adapt the material for any purpose, even commercially,
+  as long as you credit Kristian Bjørnard, link to the license, say what you
+  changed, and release your adaptations under the same license.
+
+  Full text: LICENSE-CC-BY-SA-4.0.txt
+  Summary:   https://creativecommons.org/licenses/by-sa/4.0/
+
+Code — AGPL-3.0
+
+  The site's source (*.svelte, *.js, *.ts, *.mjs, *.css except kit.css) is
+  licensed under the GNU Affero General Public License, version 3 or (at your
+  option) any later version.
+
+  You may use, change, and redistribute the code. If you distribute it, or run
+  a modified version as a public website, you must release your source under
+  the same license.
+
+  Full text: LICENSE-AGPL-3.0.txt
+  Summary:   https://www.gnu.org/licenses/agpl-3.0.html
+
+Exceptions
+
+  src/lib/kit.css is copied from color-system-and-guidelines and is public
+  domain (Unlicense).
+
+  Student work linked or pictured on the site belongs to the students who
+  made it and is not covered by either license above.

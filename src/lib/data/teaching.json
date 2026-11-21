@@ -1,0 +1,1378 @@
+[
+	{
+		"id": "41855aa2-8d71-81e0-8c10-f4b744dc0323",
+		"title": "Visual Communication",
+		"code": "DI 220",
+		"type": "Course",
+		"role": "Instructor",
+		"level": [
+			"Undergraduate"
+		],
+		"season": "Spring",
+		"year": 2027,
+		"date": null,
+		"sections": null,
+		"oneLiner": null,
+		"link": null,
+		"at": [
+			{
+				"name": "Maryland Institute College of Art (MICA)",
+				"website": "https://www.mica.edu"
+			}
+		],
+		"with": [],
+		"invitedBy": [],
+		"projects": []
+	},
+	{
+		"id": "41855aa2-8d71-8141-87ca-d3bc650b0d75",
+		"title": "Advanced Design 2: Thesis Production",
+		"code": "GD 420",
+		"type": "Course",
+		"role": "Instructor",
+		"level": [
+			"Undergraduate"
+		],
+		"season": "Fall",
+		"year": 2026,
+		"date": null,
+		"sections": null,
+		"oneLiner": null,
+		"link": null,
+		"at": [
+			{
+				"name": "Maryland Institute College of Art (MICA)",
+				"website": "https://www.mica.edu"
+			}
+		],
+		"with": [],
+		"invitedBy": [],
+		"projects": []
+	},
+	{
+		"id": "41855aa2-8d71-81cf-a84b-f5629589b8c9",
+		"title": "Chair-ness",
+		"code": null,
+		"type": "Guest lecture",
+		"role": "Guest",
+		"level": [
+			"Faculty",
+			"Public"
+		],
+		"season": "Fall",
+		"year": 2026,
+		"date": {
+			"start": "2026-11-20",
+			"end": null
+		},
+		"sections": null,
+		"oneLiner": null,
+		"link": null,
+		"at": [
+			{
+				"name": "Maryland Institute College of Art (MICA)",
+				"website": "https://www.mica.edu"
+			}
+		],
+		"with": [],
+		"invitedBy": [],
+		"projects": []
+	},
+	{
+		"id": "41855aa2-8d71-81dd-a05b-e126f94d1b8e",
+		"title": "Structured Creativity",
+		"code": "DI 200",
+		"type": "Course",
+		"role": "Instructor",
+		"level": [
+			"Undergraduate"
+		],
+		"season": "Fall",
+		"year": 2026,
+		"date": null,
+		"sections": null,
+		"oneLiner": null,
+		"link": null,
+		"at": [
+			{
+				"name": "Maryland Institute College of Art (MICA)",
+				"website": "https://www.mica.edu"
+			}
+		],
+		"with": [],
+		"invitedBy": [],
+		"projects": []
+	},
+	{
+		"id": "41855aa2-8d71-81bb-9fb6-f6189de06d1c",
+		"title": "Generally Fine Design",
+		"code": "GD 105",
+		"type": "Course",
+		"role": "Instructor",
+		"level": [
+			"Undergraduate"
+		],
+		"season": "Fall",
+		"year": 2025,
+		"date": null,
+		"sections": null,
+		"oneLiner": null,
+		"link": null,
+		"at": [
+			{
+				"name": "Maryland Institute College of Art (MICA)",
+				"website": "https://www.mica.edu"
+			}
+		],
+		"with": [],
+		"invitedBy": [],
+		"projects": []
+	},
+	{
+		"id": "41f55aa2-8d71-803f-8281-f8e5b8a83345",
+		"title": "Generally Fine Design",
+		"code": "GD 105",
+		"type": "Course",
+		"role": "Instructor",
+		"level": [
+			"Undergraduate"
+		],
+		"season": "Spring",
+		"year": 2025,
+		"date": null,
+		"sections": null,
+		"oneLiner": null,
+		"link": null,
+		"at": [
+			{
+				"name": "Maryland Institute College of Art (MICA)",
+				"website": "https://www.mica.edu"
+			}
+		],
+		"with": [],
+		"invitedBy": [],
+		"projects": []
+	},
+	{
+		"id": "41855aa2-8d71-81a6-b146-f3d422b42431",
+		"title": "Copyright, Commons, and Creativity: How Intellectual Property Shapes Artistic Expression!",
+		"code": null,
+		"type": "Workshop",
+		"role": "Guest",
+		"level": [],
+		"season": null,
+		"year": 2025,
+		"date": null,
+		"sections": null,
+		"oneLiner": null,
+		"link": null,
+		"at": [
+			{
+				"name": "University of Utah",
+				"website": null
+			}
+		],
+		"with": [],
+		"invitedBy": [],
+		"projects": []
+	},
+	{
+		"id": "41855aa2-8d71-8161-a9d3-c5da7236601c",
+		"title": "Make It Mean Something (HAW Hamburg)",
+		"code": null,
+		"type": "Workshop",
+		"role": "Guest",
+		"level": [],
+		"season": null,
+		"year": 2025,
+		"date": null,
+		"sections": null,
+		"oneLiner": null,
+		"link": "https://www.haw-hamburg.de/en/university/newsroom/news-details/news/news/show/togetherness-in-transatlantischen-design-workshops/",
+		"at": [
+			{
+				"name": "HAW Hamburg (Hamburg University of Applied Sciences)",
+				"website": "https://www.haw-hamburg.de/en/"
+			}
+		],
+		"with": [],
+		"invitedBy": [],
+		"projects": []
+	},
+	{
+		"id": "41855aa2-8d71-8103-995f-e078a2c29522",
+		"title": "Color Design (2D)",
+		"code": "FF 120",
+		"type": "Course",
+		"role": "Instructor",
+		"level": [
+			"Undergraduate"
+		],
+		"season": "Fall",
+		"year": 2024,
+		"date": null,
+		"sections": null,
+		"oneLiner": null,
+		"link": null,
+		"at": [
+			{
+				"name": "Maryland Institute College of Art (MICA)",
+				"website": "https://www.mica.edu"
+			}
+		],
+		"with": [],
+		"invitedBy": [],
+		"projects": []
+	},
+	{
+		"id": "41855aa2-8d71-81a7-9437-debb7d7be7b4",
+		"title": "Design for the Circular Economy",
+		"code": "PRD 223",
+		"type": "Course",
+		"role": "Instructor",
+		"level": [
+			"Undergraduate"
+		],
+		"season": "Spring",
+		"year": 2024,
+		"date": null,
+		"sections": null,
+		"oneLiner": null,
+		"link": null,
+		"at": [
+			{
+				"name": "Maryland Institute College of Art (MICA)",
+				"website": "https://www.mica.edu"
+			}
+		],
+		"with": [],
+		"invitedBy": [],
+		"projects": []
+	},
+	{
+		"id": "41855aa2-8d71-81d6-aa3f-dbd5e1780773",
+		"title": "Advanced Design 1: Thesis R&D",
+		"code": "GD 400",
+		"type": "Course",
+		"role": "Instructor",
+		"level": [
+			"Undergraduate"
+		],
+		"season": "Fall",
+		"year": 2023,
+		"date": null,
+		"sections": null,
+		"oneLiner": null,
+		"link": null,
+		"at": [
+			{
+				"name": "Maryland Institute College of Art (MICA)",
+				"website": "https://www.mica.edu"
+			}
+		],
+		"with": [],
+		"invitedBy": [],
+		"projects": []
+	},
+	{
+		"id": "41855aa2-8d71-81e2-b3c3-edf76a412cc7",
+		"title": "Design for the Future Today!",
+		"code": null,
+		"type": "Workshop",
+		"role": "Guest",
+		"level": [],
+		"season": null,
+		"year": 2023,
+		"date": {
+			"start": "2023-10-01",
+			"end": null
+		},
+		"sections": null,
+		"oneLiner": null,
+		"link": null,
+		"at": [
+			{
+				"name": "Western Michigan University",
+				"website": null
+			}
+		],
+		"with": [],
+		"invitedBy": [],
+		"projects": []
+	},
+	{
+		"id": "41855aa2-8d71-816c-b5de-d1e029c41c11",
+		"title": "Senior Seminar",
+		"code": "GD 402",
+		"type": "Course",
+		"role": "Instructor",
+		"level": [
+			"Undergraduate"
+		],
+		"season": null,
+		"year": 2023,
+		"date": null,
+		"sections": null,
+		"oneLiner": null,
+		"link": null,
+		"at": [
+			{
+				"name": "Maryland Institute College of Art (MICA)",
+				"website": "https://www.mica.edu"
+			}
+		],
+		"with": [],
+		"invitedBy": [],
+		"projects": []
+	},
+	{
+		"id": "41855aa2-8d71-8135-98ff-eef438eed5ef",
+		"title": "Signs Signalling Sustainability",
+		"code": null,
+		"type": "Guest lecture",
+		"role": "Guest",
+		"level": [],
+		"season": null,
+		"year": 2023,
+		"date": null,
+		"sections": null,
+		"oneLiner": null,
+		"link": null,
+		"at": [
+			{
+				"name": "Kalamazoo College",
+				"website": null
+			}
+		],
+		"with": [],
+		"invitedBy": [],
+		"projects": []
+	},
+	{
+		"id": "41855aa2-8d71-81fe-a12e-c4344efddfe6",
+		"title": "Advanced Design 1: Thesis R&D",
+		"code": "GD 400",
+		"type": "Course",
+		"role": "Instructor",
+		"level": [
+			"Undergraduate"
+		],
+		"season": "Fall",
+		"year": 2022,
+		"date": null,
+		"sections": null,
+		"oneLiner": null,
+		"link": null,
+		"at": [
+			{
+				"name": "Maryland Institute College of Art (MICA)",
+				"website": "https://www.mica.edu"
+			}
+		],
+		"with": [],
+		"invitedBy": [],
+		"projects": []
+	},
+	{
+		"id": "41855aa2-8d71-8198-acfd-e232af53ce5a",
+		"title": "Graphic Design 3",
+		"code": "GD 300",
+		"type": "Course",
+		"role": "Instructor",
+		"level": [
+			"Undergraduate"
+		],
+		"season": "Fall",
+		"year": 2022,
+		"date": null,
+		"sections": null,
+		"oneLiner": null,
+		"link": null,
+		"at": [
+			{
+				"name": "Maryland Institute College of Art (MICA)",
+				"website": "https://www.mica.edu"
+			}
+		],
+		"with": [],
+		"invitedBy": [],
+		"projects": []
+	},
+	{
+		"id": "41855aa2-8d71-8126-bed0-c167e20abadc",
+		"title": "Being Professional?",
+		"code": null,
+		"type": "Guest lecture",
+		"role": "Guest",
+		"level": [
+			"Undergraduate"
+		],
+		"season": null,
+		"year": 2022,
+		"date": null,
+		"sections": null,
+		"oneLiner": null,
+		"link": null,
+		"at": [
+			{
+				"name": "Kalamazoo College",
+				"website": null
+			}
+		],
+		"with": [],
+		"invitedBy": [],
+		"projects": []
+	},
+	{
+		"id": "41855aa2-8d71-8130-939a-fe93dfc1a953",
+		"title": "Advanced Design 2: Thesis Production",
+		"code": "GD 420",
+		"type": "Course",
+		"role": "Instructor",
+		"level": [
+			"Undergraduate"
+		],
+		"season": "Spring",
+		"year": 2021,
+		"date": null,
+		"sections": 2,
+		"oneLiner": null,
+		"link": null,
+		"at": [
+			{
+				"name": "Maryland Institute College of Art (MICA)",
+				"website": "https://www.mica.edu"
+			}
+		],
+		"with": [],
+		"invitedBy": [],
+		"projects": []
+	},
+	{
+		"id": "41855aa2-8d71-811f-b7af-f4b80c19d12b",
+		"title": "Drawdown Diptych",
+		"code": null,
+		"type": "Workshop",
+		"role": "Guest",
+		"level": [],
+		"season": null,
+		"year": 2021,
+		"date": {
+			"start": "2021-03-30",
+			"end": "2021-04-27"
+		},
+		"sections": null,
+		"oneLiner": null,
+		"link": null,
+		"at": [
+			{
+				"name": "University of Utah",
+				"website": null
+			}
+		],
+		"with": [],
+		"invitedBy": [],
+		"projects": []
+	},
+	{
+		"id": "41855aa2-8d71-811b-9da7-faab29a6d06e",
+		"title": "F/LOS Regularly",
+		"code": null,
+		"type": "Guest lecture",
+		"role": "Guest",
+		"level": [],
+		"season": null,
+		"year": 2021,
+		"date": null,
+		"sections": null,
+		"oneLiner": null,
+		"link": null,
+		"at": [
+			{
+				"name": "University of Utah",
+				"website": null
+			}
+		],
+		"with": [],
+		"invitedBy": [],
+		"projects": []
+	},
+	{
+		"id": "41855aa2-8d71-8175-bc7c-e374be54230e",
+		"title": "Advanced Design 1: Thesis R&D",
+		"code": "GD 400",
+		"type": "Course",
+		"role": "Instructor",
+		"level": [
+			"Undergraduate"
+		],
+		"season": "Fall",
+		"year": 2020,
+		"date": null,
+		"sections": null,
+		"oneLiner": null,
+		"link": null,
+		"at": [
+			{
+				"name": "Maryland Institute College of Art (MICA)",
+				"website": "https://www.mica.edu"
+			}
+		],
+		"with": [],
+		"invitedBy": [],
+		"projects": []
+	},
+	{
+		"id": "41855aa2-8d71-817c-a228-ff94dc4d0428",
+		"title": "Graphic Design 3",
+		"code": "GD 300",
+		"type": "Course",
+		"role": "Instructor",
+		"level": [
+			"Undergraduate"
+		],
+		"season": "Fall",
+		"year": 2020,
+		"date": null,
+		"sections": null,
+		"oneLiner": null,
+		"link": null,
+		"at": [
+			{
+				"name": "Maryland Institute College of Art (MICA)",
+				"website": "https://www.mica.edu"
+			}
+		],
+		"with": [],
+		"invitedBy": [],
+		"projects": []
+	},
+	{
+		"id": "41855aa2-8d71-81a8-92a1-d1438534b486",
+		"title": "Advanced Design 2: Thesis Production",
+		"code": "GD 420",
+		"type": "Course",
+		"role": "Instructor",
+		"level": [
+			"Undergraduate"
+		],
+		"season": "Spring",
+		"year": 2020,
+		"date": null,
+		"sections": 2,
+		"oneLiner": null,
+		"link": null,
+		"at": [
+			{
+				"name": "Maryland Institute College of Art (MICA)",
+				"website": "https://www.mica.edu"
+			}
+		],
+		"with": [],
+		"invitedBy": [],
+		"projects": []
+	},
+	{
+		"id": "41855aa2-8d71-8101-b250-dc8e86010125",
+		"title": "Sustainable Graphic Design",
+		"code": "GD 314",
+		"type": "Course",
+		"role": "Instructor",
+		"level": [
+			"Undergraduate"
+		],
+		"season": "Spring",
+		"year": 2020,
+		"date": null,
+		"sections": null,
+		"oneLiner": null,
+		"link": null,
+		"at": [
+			{
+				"name": "Maryland Institute College of Art (MICA)",
+				"website": "https://www.mica.edu"
+			}
+		],
+		"with": [],
+		"invitedBy": [],
+		"projects": []
+	},
+	{
+		"id": "41855aa2-8d71-816b-ac7a-fd08cb599d95",
+		"title": "So You Want To Be A Climate Designer?",
+		"code": null,
+		"type": "Guest lecture",
+		"role": "Guest",
+		"level": [],
+		"season": null,
+		"year": 2020,
+		"date": {
+			"start": "2020-11-24",
+			"end": null
+		},
+		"sections": null,
+		"oneLiner": null,
+		"link": null,
+		"at": [
+			{
+				"name": "Maryland Institute College of Art (MICA)",
+				"website": "https://www.mica.edu"
+			}
+		],
+		"with": [],
+		"invitedBy": [],
+		"projects": []
+	},
+	{
+		"id": "41855aa2-8d71-8139-9d18-c99db7e58fe5",
+		"title": "Advanced Design 1: Thesis R&D",
+		"code": "GD 400",
+		"type": "Course",
+		"role": "Instructor",
+		"level": [
+			"Undergraduate"
+		],
+		"season": "Fall",
+		"year": 2019,
+		"date": null,
+		"sections": null,
+		"oneLiner": null,
+		"link": null,
+		"at": [
+			{
+				"name": "Maryland Institute College of Art (MICA)",
+				"website": "https://www.mica.edu"
+			}
+		],
+		"with": [],
+		"invitedBy": [],
+		"projects": []
+	},
+	{
+		"id": "41855aa2-8d71-8140-a08d-e2d9aa6c0aca",
+		"title": "Climate Change and Sustainability for Artists and Designers",
+		"code": "GFA 343",
+		"type": "Course",
+		"role": "Instructor",
+		"level": [
+			"Undergraduate"
+		],
+		"season": "Fall",
+		"year": 2019,
+		"date": null,
+		"sections": null,
+		"oneLiner": null,
+		"link": null,
+		"at": [
+			{
+				"name": "Maryland Institute College of Art (MICA)",
+				"website": "https://www.mica.edu"
+			}
+		],
+		"with": [],
+		"invitedBy": [],
+		"projects": []
+	},
+	{
+		"id": "41855aa2-8d71-812d-8846-f73e2eda5c3b",
+		"title": "Graphic Design 3",
+		"code": "GD 300",
+		"type": "Course",
+		"role": "Instructor",
+		"level": [
+			"Undergraduate"
+		],
+		"season": "Fall",
+		"year": 2019,
+		"date": null,
+		"sections": null,
+		"oneLiner": null,
+		"link": null,
+		"at": [
+			{
+				"name": "Maryland Institute College of Art (MICA)",
+				"website": "https://www.mica.edu"
+			}
+		],
+		"with": [],
+		"invitedBy": [],
+		"projects": []
+	},
+	{
+		"id": "41855aa2-8d71-81d9-b17d-ded6ab6580b1",
+		"title": "Advanced Design 2: Thesis Production",
+		"code": "GD 420",
+		"type": "Course",
+		"role": "Instructor",
+		"level": [
+			"Undergraduate"
+		],
+		"season": "Spring",
+		"year": 2019,
+		"date": null,
+		"sections": 2,
+		"oneLiner": null,
+		"link": null,
+		"at": [
+			{
+				"name": "Maryland Institute College of Art (MICA)",
+				"website": "https://www.mica.edu"
+			}
+		],
+		"with": [],
+		"invitedBy": [],
+		"projects": []
+	},
+	{
+		"id": "41855aa2-8d71-8162-96df-f7bc0302d9cb",
+		"title": "Sustainable Graphic Design",
+		"code": "GD 314",
+		"type": "Course",
+		"role": "Instructor",
+		"level": [
+			"Undergraduate"
+		],
+		"season": "Spring",
+		"year": 2019,
+		"date": null,
+		"sections": null,
+		"oneLiner": null,
+		"link": "https://gd314-sgd.github.io/publication/",
+		"at": [
+			{
+				"name": "Maryland Institute College of Art (MICA)",
+				"website": "https://www.mica.edu"
+			}
+		],
+		"with": [],
+		"invitedBy": [],
+		"projects": []
+	},
+	{
+		"id": "41855aa2-8d71-8143-b8d7-dcccc5a8147e",
+		"title": "Copyright(wrong)",
+		"code": null,
+		"type": "Guest lecture",
+		"role": "Guest",
+		"level": [],
+		"season": null,
+		"year": 2019,
+		"date": null,
+		"sections": null,
+		"oneLiner": null,
+		"link": null,
+		"at": [
+			{
+				"name": "Maryland Institute College of Art (MICA)",
+				"website": "https://www.mica.edu"
+			}
+		],
+		"with": [],
+		"invitedBy": [],
+		"projects": []
+	},
+	{
+		"id": "41855aa2-8d71-8113-a9e7-ee40236762a0",
+		"title": "Advanced Design 1: Thesis R&D",
+		"code": "GD 400",
+		"type": "Course",
+		"role": "Instructor",
+		"level": [
+			"Undergraduate"
+		],
+		"season": "Fall",
+		"year": 2018,
+		"date": null,
+		"sections": 2,
+		"oneLiner": null,
+		"link": null,
+		"at": [
+			{
+				"name": "Maryland Institute College of Art (MICA)",
+				"website": "https://www.mica.edu"
+			}
+		],
+		"with": [],
+		"invitedBy": [],
+		"projects": []
+	},
+	{
+		"id": "41855aa2-8d71-8188-9097-ca89bc7899b5",
+		"title": "Advanced Design 2: Thesis Production",
+		"code": "GD 420",
+		"type": "Course",
+		"role": "Instructor",
+		"level": [
+			"Undergraduate"
+		],
+		"season": "Fall",
+		"year": 2018,
+		"date": null,
+		"sections": null,
+		"oneLiner": null,
+		"link": null,
+		"at": [
+			{
+				"name": "Maryland Institute College of Art (MICA)",
+				"website": "https://www.mica.edu"
+			}
+		],
+		"with": [],
+		"invitedBy": [],
+		"projects": []
+	},
+	{
+		"id": "41855aa2-8d71-8194-b3e9-dd66ce5eb3bd",
+		"title": "Graphic Design 3",
+		"code": "GD 300",
+		"type": "Course",
+		"role": "Instructor",
+		"level": [
+			"Undergraduate"
+		],
+		"season": "Fall",
+		"year": 2018,
+		"date": null,
+		"sections": null,
+		"oneLiner": null,
+		"link": null,
+		"at": [
+			{
+				"name": "Maryland Institute College of Art (MICA)",
+				"website": "https://www.mica.edu"
+			}
+		],
+		"with": [],
+		"invitedBy": [],
+		"projects": []
+	},
+	{
+		"id": "41855aa2-8d71-81ec-a754-f8dd53bf201c",
+		"title": "Advanced Design 2: Thesis Production",
+		"code": "GD 420",
+		"type": "Course",
+		"role": "Instructor",
+		"level": [
+			"Undergraduate"
+		],
+		"season": "Spring",
+		"year": 2018,
+		"date": null,
+		"sections": 2,
+		"oneLiner": null,
+		"link": null,
+		"at": [
+			{
+				"name": "Maryland Institute College of Art (MICA)",
+				"website": "https://www.mica.edu"
+			}
+		],
+		"with": [],
+		"invitedBy": [],
+		"projects": []
+	},
+	{
+		"id": "41855aa2-8d71-8157-9bb8-dfaf7d81a6ee",
+		"title": "Special Topics in Graphic Design: Open Source",
+		"code": "GD 399",
+		"type": "Course",
+		"role": "Instructor",
+		"level": [
+			"Undergraduate"
+		],
+		"season": "Spring",
+		"year": 2018,
+		"date": null,
+		"sections": null,
+		"oneLiner": null,
+		"link": null,
+		"at": [
+			{
+				"name": "Maryland Institute College of Art (MICA)",
+				"website": "https://www.mica.edu"
+			}
+		],
+		"with": [],
+		"invitedBy": [],
+		"projects": []
+	},
+	{
+		"id": "41855aa2-8d71-8162-ba25-ec3947e69985",
+		"title": "F/LOS Regularly",
+		"code": null,
+		"type": "Conference",
+		"role": "Guest",
+		"level": [
+			"Public"
+		],
+		"season": null,
+		"year": 2018,
+		"date": null,
+		"sections": null,
+		"oneLiner": null,
+		"link": null,
+		"at": [
+			{
+				"name": "AIGA",
+				"website": "https://www.aiga.org"
+			},
+			{
+				"name": "Herron School of Art and Design",
+				"website": null
+			}
+		],
+		"with": [],
+		"invitedBy": [],
+		"projects": []
+	},
+	{
+		"id": "41855aa2-8d71-81c9-a366-f635a0f765b5",
+		"title": "Advanced Design 1: Thesis R&D",
+		"code": "GD 400",
+		"type": "Course",
+		"role": "Instructor",
+		"level": [
+			"Undergraduate"
+		],
+		"season": "Fall",
+		"year": 2017,
+		"date": null,
+		"sections": 2,
+		"oneLiner": null,
+		"link": null,
+		"at": [
+			{
+				"name": "Maryland Institute College of Art (MICA)",
+				"website": "https://www.mica.edu"
+			}
+		],
+		"with": [],
+		"invitedBy": [],
+		"projects": []
+	},
+	{
+		"id": "41855aa2-8d71-8146-b636-e829faeabe8b",
+		"title": "Advanced Design 2: Thesis Production",
+		"code": "GD 420",
+		"type": "Course",
+		"role": "Instructor",
+		"level": [
+			"Undergraduate"
+		],
+		"season": "Fall",
+		"year": 2017,
+		"date": null,
+		"sections": null,
+		"oneLiner": null,
+		"link": null,
+		"at": [
+			{
+				"name": "Maryland Institute College of Art (MICA)",
+				"website": "https://www.mica.edu"
+			}
+		],
+		"with": [],
+		"invitedBy": [],
+		"projects": []
+	},
+	{
+		"id": "41855aa2-8d71-81ec-9ca5-f86d290aa21b",
+		"title": "Graphic Design 3",
+		"code": "GD 300",
+		"type": "Course",
+		"role": "Instructor",
+		"level": [
+			"Undergraduate"
+		],
+		"season": "Fall",
+		"year": 2017,
+		"date": null,
+		"sections": null,
+		"oneLiner": null,
+		"link": null,
+		"at": [
+			{
+				"name": "Maryland Institute College of Art (MICA)",
+				"website": "https://www.mica.edu"
+			}
+		],
+		"with": [],
+		"invitedBy": [],
+		"projects": []
+	},
+	{
+		"id": "41855aa2-8d71-8179-ba08-d6d09c600c22",
+		"title": "Advanced Design 2: Thesis Production",
+		"code": "GD 420",
+		"type": "Course",
+		"role": "Instructor",
+		"level": [
+			"Undergraduate"
+		],
+		"season": "Spring",
+		"year": 2017,
+		"date": null,
+		"sections": null,
+		"oneLiner": null,
+		"link": null,
+		"at": [
+			{
+				"name": "Maryland Institute College of Art (MICA)",
+				"website": "https://www.mica.edu"
+			}
+		],
+		"with": [],
+		"invitedBy": [],
+		"projects": []
+	},
+	{
+		"id": "41855aa2-8d71-8173-a7af-cf1c98d0e1ef",
+		"title": "Graphic Design 2",
+		"code": "GD 220",
+		"type": "Course",
+		"role": "Instructor",
+		"level": [
+			"Undergraduate"
+		],
+		"season": "Spring",
+		"year": 2017,
+		"date": null,
+		"sections": null,
+		"oneLiner": null,
+		"link": "https://teaching.ookb.co/2017/gd2/",
+		"at": [
+			{
+				"name": "Maryland Institute College of Art (MICA)",
+				"website": "https://www.mica.edu"
+			}
+		],
+		"with": [],
+		"invitedBy": [],
+		"projects": []
+	},
+	{
+		"id": "41855aa2-8d71-81a8-8527-c7d6c305c1f7",
+		"title": "Sustainable Graphic Design",
+		"code": "GD 314",
+		"type": "Course",
+		"role": "Instructor",
+		"level": [
+			"Undergraduate"
+		],
+		"season": "Spring",
+		"year": 2017,
+		"date": null,
+		"sections": null,
+		"oneLiner": null,
+		"link": null,
+		"at": [
+			{
+				"name": "Maryland Institute College of Art (MICA)",
+				"website": "https://www.mica.edu"
+			}
+		],
+		"with": [],
+		"invitedBy": [],
+		"projects": []
+	},
+	{
+		"id": "41855aa2-8d71-81ee-9e45-ec1f00598e52",
+		"title": "Advanced Design 1: Thesis R&D",
+		"code": "GD 400",
+		"type": "Course",
+		"role": "Instructor",
+		"level": [
+			"Undergraduate"
+		],
+		"season": "Fall",
+		"year": 2016,
+		"date": null,
+		"sections": 2,
+		"oneLiner": null,
+		"link": null,
+		"at": [
+			{
+				"name": "Maryland Institute College of Art (MICA)",
+				"website": "https://www.mica.edu"
+			}
+		],
+		"with": [],
+		"invitedBy": [],
+		"projects": []
+	},
+	{
+		"id": "41855aa2-8d71-8105-b1c8-f5c8e69cb9a4",
+		"title": "Graphic Design 3",
+		"code": "GD 300",
+		"type": "Course",
+		"role": "Instructor",
+		"level": [
+			"Undergraduate"
+		],
+		"season": "Fall",
+		"year": 2016,
+		"date": null,
+		"sections": null,
+		"oneLiner": null,
+		"link": null,
+		"at": [
+			{
+				"name": "Maryland Institute College of Art (MICA)",
+				"website": "https://www.mica.edu"
+			}
+		],
+		"with": [],
+		"invitedBy": [],
+		"projects": []
+	},
+	{
+		"id": "41855aa2-8d71-810c-af30-c95cf220f1f9",
+		"title": "Advanced Design 2: Thesis Production",
+		"code": "GD 420",
+		"type": "Course",
+		"role": "Instructor",
+		"level": [
+			"Undergraduate"
+		],
+		"season": "Spring",
+		"year": 2016,
+		"date": null,
+		"sections": 2,
+		"oneLiner": null,
+		"link": null,
+		"at": [
+			{
+				"name": "Maryland Institute College of Art (MICA)",
+				"website": "https://www.mica.edu"
+			}
+		],
+		"with": [],
+		"invitedBy": [],
+		"projects": []
+	},
+	{
+		"id": "41855aa2-8d71-8127-aeaf-d12aa51fdf39",
+		"title": "Graphic Design 2",
+		"code": "GD 220",
+		"type": "Course",
+		"role": "Instructor",
+		"level": [
+			"Undergraduate"
+		],
+		"season": "Spring",
+		"year": 2016,
+		"date": null,
+		"sections": null,
+		"oneLiner": null,
+		"link": null,
+		"at": [
+			{
+				"name": "Maryland Institute College of Art (MICA)",
+				"website": "https://www.mica.edu"
+			}
+		],
+		"with": [],
+		"invitedBy": [],
+		"projects": []
+	},
+	{
+		"id": "41855aa2-8d71-81e0-9220-f7c0a83a8732",
+		"title": "Graphic Design 3",
+		"code": "GD 300",
+		"type": "Course",
+		"role": "Instructor",
+		"level": [
+			"Undergraduate"
+		],
+		"season": "Fall",
+		"year": 2015,
+		"date": null,
+		"sections": null,
+		"oneLiner": null,
+		"link": null,
+		"at": [
+			{
+				"name": "Maryland Institute College of Art (MICA)",
+				"website": "https://www.mica.edu"
+			}
+		],
+		"with": [],
+		"invitedBy": [],
+		"projects": []
+	},
+	{
+		"id": "41855aa2-8d71-81a5-9bc4-f023f8d32802",
+		"title": "Sustainable Graphic Design",
+		"code": "GD 314",
+		"type": "Course",
+		"role": "Instructor",
+		"level": [
+			"Undergraduate"
+		],
+		"season": "Spring",
+		"year": 2014,
+		"date": null,
+		"sections": null,
+		"oneLiner": null,
+		"link": "https://teaching.ookb.co/courses/gd314/1sthalf.html",
+		"at": [
+			{
+				"name": "Maryland Institute College of Art (MICA)",
+				"website": "https://www.mica.edu"
+			}
+		],
+		"with": [],
+		"invitedBy": [],
+		"projects": []
+	},
+	{
+		"id": "41855aa2-8d71-81d2-92b8-ef2f5fd695aa",
+		"title": "Graphic Design 3",
+		"code": "GD 300",
+		"type": "Course",
+		"role": "Instructor",
+		"level": [
+			"Undergraduate"
+		],
+		"season": "Fall",
+		"year": 2013,
+		"date": null,
+		"sections": 3,
+		"oneLiner": null,
+		"link": "https://teaching.ookb.co/courses/gd3/",
+		"at": [
+			{
+				"name": "Maryland Institute College of Art (MICA)",
+				"website": "https://www.mica.edu"
+			}
+		],
+		"with": [],
+		"invitedBy": [],
+		"projects": []
+	},
+	{
+		"id": "41855aa2-8d71-81fc-b6fc-e197d9c35006",
+		"title": "Interactive Media and Publishing 2",
+		"code": "GD 5450",
+		"type": "Course",
+		"role": "Instructor",
+		"level": [
+			"Graduate"
+		],
+		"season": "Spring",
+		"year": 2013,
+		"date": null,
+		"sections": null,
+		"oneLiner": null,
+		"link": "https://im.ookb.co/",
+		"at": [
+			{
+				"name": "Maryland Institute College of Art (MICA)",
+				"website": "https://www.mica.edu"
+			}
+		],
+		"with": [],
+		"invitedBy": [],
+		"projects": []
+	},
+	{
+		"id": "41855aa2-8d71-81e3-8e11-f620827aa33b",
+		"title": "Motion Graphics",
+		"code": "GD 5368",
+		"type": "Course",
+		"role": "Instructor",
+		"level": [
+			"Graduate"
+		],
+		"season": "Spring",
+		"year": 2013,
+		"date": null,
+		"sections": null,
+		"oneLiner": null,
+		"link": "https://mg.ookb.co/",
+		"at": [
+			{
+				"name": "Maryland Institute College of Art (MICA)",
+				"website": "https://www.mica.edu"
+			}
+		],
+		"with": [],
+		"invitedBy": [],
+		"projects": []
+	},
+	{
+		"id": "41855aa2-8d71-81e8-b99a-c8649813c220",
+		"title": "Graphic Design 3",
+		"code": "GD 300",
+		"type": "Course",
+		"role": "Instructor",
+		"level": [
+			"Undergraduate"
+		],
+		"season": "Fall",
+		"year": 2011,
+		"date": null,
+		"sections": null,
+		"oneLiner": null,
+		"link": null,
+		"at": [
+			{
+				"name": "Maryland Institute College of Art (MICA)",
+				"website": "https://www.mica.edu"
+			}
+		],
+		"with": [],
+		"invitedBy": [],
+		"projects": []
+	},
+	{
+		"id": "41855aa2-8d71-819c-8a52-f2d5071d3e48",
+		"title": "Motion Graphics",
+		"code": "GD 5368",
+		"type": "Course",
+		"role": "Instructor",
+		"level": [
+			"Graduate"
+		],
+		"season": "Spring",
+		"year": 2011,
+		"date": null,
+		"sections": null,
+		"oneLiner": null,
+		"link": null,
+		"at": [
+			{
+				"name": "Maryland Institute College of Art (MICA)",
+				"website": "https://www.mica.edu"
+			}
+		],
+		"with": [],
+		"invitedBy": [],
+		"projects": []
+	},
+	{
+		"id": "41855aa2-8d71-81f5-953c-eeab8a8f12dd",
+		"title": "Flexible Design Studio: Professional Practice",
+		"code": "GD 301",
+		"type": "Course",
+		"role": "Instructor",
+		"level": [
+			"Undergraduate"
+		],
+		"season": null,
+		"year": null,
+		"date": null,
+		"sections": null,
+		"oneLiner": null,
+		"link": null,
+		"at": [
+			{
+				"name": "Maryland Institute College of Art (MICA)",
+				"website": "https://www.mica.edu"
+			}
+		],
+		"with": [],
+		"invitedBy": [],
+		"projects": []
+	}
+]
