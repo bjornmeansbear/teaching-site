@@ -31,6 +31,15 @@ git add src/lib/data && git commit -m "sync teaching data"
 The Notion integration needs access to Teaching, People & Organizations and
 Course Projects. `.env` is git-ignored; never commit the token.
 
+## Hosting
+
+**GitHub Pages, not Cloudflare Pages** like my other sites. I chose it to learn
+how GitHub Actions works. `.github/workflows/deploy.yml` builds the site on
+every push to `main` and publishes `build/`. DNS for
+teaching.kristianbjornard.com is in Cloudflare, pointing at GitHub, and
+`static/CNAME` tells GitHub which domain the site answers to. Pushing the
+synced JSON is the publish step.
+
 ## Design
 
 Styled with `src/lib/kit.css`, copied verbatim from
